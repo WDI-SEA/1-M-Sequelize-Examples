@@ -54,7 +54,7 @@ var db = require('./models');
 // });
 
 
-// ---------- Lazy Loading ---------- //
+// ---------- Eager Loading ---------- //
 // db.author.findOne({
 //   include: [db.post]
 // }).then(function(author) {
